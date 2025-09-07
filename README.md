@@ -1,2 +1,13 @@
-# PaginaWeb
-Proyecto hecho para la materia Taller de lenguajes de marcado y tecnologías web.
+# Proyecto Página Web Universitaria.
+
+## Capturas
+
+<img src="" width=900 />
+<img src="" width=900 />
+<img src="" width=900 />
+
+
+## Herramientas utllizadas.
+
+- HTML.
+- CSS.
